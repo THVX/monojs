@@ -1,0 +1,28 @@
+{
+  "name": "monojs",
+  "version": "1.0.0",
+  "description": "The JavaScript port of MonoScript.",
+  "main": "dist\\mono.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THVX/monojs.git"
+  },
+  "keywords": [
+    "OOP",
+    "framework",
+    "box",
+    "monoscript"
+  ],
+  "author": "THVX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/THVX/monojs/issues"
+  },
+  "homepage": "https://github.com/THVX/monojs#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
